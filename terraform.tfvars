@@ -1,6 +1,6 @@
 db_password               = "Ckdemo123"
 rds_identifier            = "demointel-sum"
-vpc_id                    = "vpc-0600f8e69452b604a"
+vpc_id                    = "vpc-0f39194034249532a"
 aws_security_group_name   = "demo-sg"
 db_allocated_storage      = 200
 db_backup_retention_period = 7
